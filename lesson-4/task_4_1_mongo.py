@@ -25,6 +25,7 @@ from lxml import html
 from pymongo import MongoClient
 
 
+# функция взята из дз2, парсим новости с lenta.ru (за адекватность новостей не отвечаю)
 def parse_lenta():
     url = 'https://lenta.ru'
 
@@ -63,9 +64,12 @@ def parse_lenta():
 
 
 def write_to_db():
+    # После парсинка получаем список словарей, сохраняем в переменную
     data = parse_lenta()
+    # Записываем в MongoDB
     db.news.insert_many(data)
 
+    # Считываем записанное, формируем список и выводим его через pprint, кроме того выводим количество записей
     news = db.news.find()
     list_news = list(news)
     pprint(list_news)
