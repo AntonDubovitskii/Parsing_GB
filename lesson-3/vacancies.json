@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "title": "Врач стоматолог-терапевт",
+            "link": "https://spb.hh.ru/vacancy/79088389?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО ДАНТИСТОФФ 2",
+            "location": "Москва, Беговая и еще 2 ",
+            "salary_min": 200000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/76843720?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО МЦ",
+            "location": "Москва",
+            "salary_min": 200000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/79112568?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ФГБУ Клиническая больница №1",
+            "location": "Москва",
+            "salary_min": 120000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/78995643?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Germanklinik",
+            "location": "Москва",
+            "salary_min": 4800,
+            "salary_max": null,
+            "salary_currency": "EUR",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/78151273?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Клиника Здоровье",
+            "location": "Москва",
+            "salary_min": 120000,
+            "salary_max": 150000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт/пульмонолог",
+            "link": "https://spb.hh.ru/vacancy/79042048?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО ВЕСТ-ТЕХ",
+            "location": "Москва",
+            "salary_min": 150000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт / врач общей практики (м. Выставочная)",
+            "link": "https://spb.hh.ru/vacancy/78543023?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Клиники Чайка",
+            "location": "Москва",
+            "salary_min": 150000,
+            "salary_max": 200000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/79069977?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Медицинский центр Гимед",
+            "location": "Москва",
+            "salary_min": 28000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/76037032?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Медцентрсервис",
+            "location": "Москва",
+            "salary_min": 200000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт/гастроэнтеролог",
+            "link": "https://spb.hh.ru/vacancy/79125380?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Многопрофильная Клиника Медпрайм",
+            "location": "Москва",
+            "salary_min": 50000,
+            "salary_max": 200000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт (м. Дмитровская)",
+            "link": "https://spb.hh.ru/vacancy/79072102?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Медицинский центр Гимед",
+            "location": "Москва, Дмитровская",
+            "salary_min": 100000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/78782761?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Ваш Доктор",
+            "location": "Москва",
+            "salary_min": 65000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт стационара",
+            "link": "https://spb.hh.ru/vacancy/78772471?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Скандинавский центр здоровья",
+            "location": "Москва, Авиамоторная и еще 1 ",
+            "salary_min": 120000,
+            "salary_max": 140000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт в стационар (сменный график)",
+            "link": "https://spb.hh.ru/vacancy/79057693?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Группа Гута",
+            "location": "Москва",
+            "salary_min": 100000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт КДО стационара",
+            "link": "https://spb.hh.ru/vacancy/79002185?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ГБУЗ Городская клиническая больница №52 ДЗМ",
+            "location": "Москва",
+            "salary_min": 90000,
+            "salary_max": 100000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/78986153?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ГБУЗ КДЦ № 6 ДЗМ",
+            "location": "Москва",
+            "salary_min": 120000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач превентивной интегративной медицины (терапия)",
+            "link": "https://spb.hh.ru/vacancy/78962459?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Австрийский центр здоровья Verba Mayr",
+            "location": "Москва",
+            "salary_min": 200000,
+            "salary_max": 330000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт (дежурный госпиталист)",
+            "link": "https://spb.hh.ru/vacancy/76209791?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Ильинская больница",
+            "location": "Москва",
+            "salary_min": null,
+            "salary_max": null,
+            "salary_currency": null,
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/77641043?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ФГБУ ФНКЦ специализированных видов медицинской помощи и медицинских технологий ФМБА России",
+            "location": "Москва",
+            "salary_min": 100000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач терапевт (м. Белорусская)",
+            "link": "https://spb.hh.ru/vacancy/78692965?from=vacancy_search_list&query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Варикоза Нет",
+            "location": "Москва, Белорусская и еще 3 ",
+            "salary_min": null,
+            "salary_max": 80000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/79108301?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "АО ЦИФРОВЫЕ ТЕХНОЛОГИИ ЗДОРОВЬЯ",
+            "location": "Санкт-Петербург",
+            "salary_min": 110000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт на комиссии",
+            "link": "https://spb.hh.ru/vacancy/79039900?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Новая клиника АБИА",
+            "location": "Санкт-Петербург, Пионерская",
+            "salary_min": 20000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/69326259?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника №17",
+            "location": "Санкт-Петербург, Ладожская",
+            "salary_min": 130000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Ночной врач-терапевт (телемедицина)",
+            "link": "https://spb.hh.ru/vacancy/79057376?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "НаПоправку",
+            "location": "Санкт-Петербург, Василеостровская",
+            "salary_min": null,
+            "salary_max": 70000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт (дежурный врач)",
+            "link": "https://spb.hh.ru/vacancy/79042522?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Медицинский центр Клевер",
+            "location": "Санкт-Петербург, Площадь Ленина",
+            "salary_min": null,
+            "salary_max": null,
+            "salary_currency": null,
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/78467912?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО ЛЕЧЕБНО-ПРОФИЛАКТИЧЕСКОЕ УЧРЕЖДЕНИЕ №3",
+            "location": "Санкт-Петербург",
+            "salary_min": 100000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт (медицинский центр \"Династия)",
+            "link": "https://spb.hh.ru/vacancy/70109865?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Холдинг Дом",
+            "location": "Санкт-Петербург",
+            "salary_min": 100000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт (клинические исследования)",
+            "link": "https://spb.hh.ru/vacancy/79044611?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО МЦ Эко-безопасность",
+            "location": "Санкт-Петербург",
+            "salary_min": 90000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/78979465?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника №27",
+            "location": "Санкт-Петербург",
+            "salary_min": 100000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт отдела специализированной медицинской помощи",
+            "link": "https://spb.hh.ru/vacancy/79039465?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Гос. корп. ФГБУ Национальный медицинский исследовательский центр имени В.А.Алмазова Минздрава России",
+            "location": "Санкт-Петербург, Удельная",
+            "salary_min": 70000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/79097253?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника № 114, Поликлиническое отделение № 121",
+            "location": "Санкт-Петербург",
+            "salary_min": 70000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/78879551?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника № 49, поликлиническое отделение № 33",
+            "location": "Санкт-Петербург",
+            "salary_min": 50000,
+            "salary_max": 90000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач терапевт выездной наркологической службы",
+            "link": "https://spb.hh.ru/vacancy/75892771?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО МЕДИКУМ",
+            "location": "Санкт-Петербург",
+            "salary_min": 150000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-консультант",
+            "link": "https://spb.hh.ru/vacancy/78765887?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО МПК (Призыванет.Ру)",
+            "location": "Санкт-Петербург",
+            "salary_min": 60000,
+            "salary_max": 80000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт(приемное отделение)",
+            "link": "https://spb.hh.ru/vacancy/79099248?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ГБУЗ Ленинградская областная клиническая больница",
+            "location": "Санкт-Петербург",
+            "salary_min": 70000,
+            "salary_max": 70000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач - терапевт",
+            "link": "https://spb.hh.ru/vacancy/77996966?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО КДФ-СПБ",
+            "location": "Санкт-Петербург",
+            "salary_min": null,
+            "salary_max": null,
+            "salary_currency": null,
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/78826743?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника №106",
+            "location": "Санкт-Петербург",
+            "salary_min": 80000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач терапевт-профпатолог",
+            "link": "https://spb.hh.ru/vacancy/78175330?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО СибМедЦентр",
+            "location": "Санкт-Петербург",
+            "salary_min": 156000,
+            "salary_max": 156000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/78946349?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Поликлиника № 88",
+            "location": "Санкт-Петербург, Проспект Ветеранов",
+            "salary_min": 100000,
+            "salary_max": 150000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт/Врач по медицинской профилактике",
+            "link": "https://spb.hh.ru/vacancy/69841457?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника №17",
+            "location": "Санкт-Петербург, Ладожская",
+            "salary_min": 70000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач терапевт-профпатолог",
+            "link": "https://spb.hh.ru/vacancy/79121688?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Мед плюс",
+            "location": "Санкт-Петербург",
+            "salary_min": 70000,
+            "salary_max": 80000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт (врач общей практики)",
+            "link": "https://spb.hh.ru/vacancy/78354840?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Многопрофильная клиника Скандинавия. Клиника репродукции Скандинавия АВА-ПЕТЕР",
+            "location": "Санкт-Петербург, Маяковская",
+            "salary_min": 85000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт участковый цехового врачебного участка",
+            "link": "https://spb.hh.ru/vacancy/79084386?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "РЖД-Медицина",
+            "location": "Санкт-Петербург",
+            "salary_min": 50000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт (Юг города)",
+            "link": "https://spb.hh.ru/vacancy/78988840?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "GoDoc",
+            "location": "Санкт-Петербург",
+            "salary_min": null,
+            "salary_max": null,
+            "salary_currency": null,
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач терапевт/кардиолог",
+            "link": "https://spb.hh.ru/vacancy/78844400?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Прадус",
+            "location": "Санкт-Петербург",
+            "salary_min": 80000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт (м. Удельная)",
+            "link": "https://spb.hh.ru/vacancy/79014061?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Клиника EMS",
+            "location": "Санкт-Петербург, Удельная",
+            "salary_min": null,
+            "salary_max": null,
+            "salary_currency": null,
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт по экспертизе временной нетрудоспособности",
+            "link": "https://spb.hh.ru/vacancy/78364205?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника №106",
+            "location": "Санкт-Петербург",
+            "salary_min": 70000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/79051125?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская Поликлиника №56",
+            "location": "Санкт-Петербург",
+            "salary_min": 60000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/78895484?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПБ ГКУЗ Хоспис №1",
+            "location": "Санкт-Петербург",
+            "salary_min": 67000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/78028008?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника №46",
+            "location": "Санкт-Петербург, Ломоносовская",
+            "salary_min": 62000,
+            "salary_max": 90000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт (терапевтическое отделение стационара)",
+            "link": "https://spb.hh.ru/vacancy/77696436?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ГБУЗ ЛО Выборгская межрайонная больница",
+            "location": "Санкт-Петербург",
+            "salary_min": 80000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/43813036?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПБ ГБУЗ Городская поликлиника №8",
+            "location": "Санкт-Петербург",
+            "salary_min": 90000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/78256752?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника №94",
+            "location": "Санкт-Петербург",
+            "salary_min": 40000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/77448358?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "АО Центравиамед",
+            "location": "Санкт-Петербург",
+            "salary_min": 100000,
+            "salary_max": 100000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач терапевт-профпатолог",
+            "link": "https://spb.hh.ru/vacancy/77209092?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Мед плюс",
+            "location": "Санкт-Петербург, Озерки и еще 2 ",
+            "salary_min": null,
+            "salary_max": 90000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт-профпатолог",
+            "link": "https://spb.hh.ru/vacancy/78588759?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Медилюкс-ТМ",
+            "location": "Санкт-Петербург, Комендантский проспект и еще 2 ",
+            "salary_min": null,
+            "salary_max": null,
+            "salary_currency": null,
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/78131420?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "АО Международный центр репродуктивной медицины",
+            "location": "Санкт-Петербург, Комендантский проспект",
+            "salary_min": null,
+            "salary_max": null,
+            "salary_currency": null,
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач терапевт/ профпатолог",
+            "link": "https://spb.hh.ru/vacancy/78760332?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Медицинский центр Панацея",
+            "location": "Санкт-Петербург, Комендантский проспект",
+            "salary_min": 65000,
+            "salary_max": 70000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач - терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/77804097?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника № 24",
+            "location": "Санкт-Петербург, Балтийская и еще 1 ",
+            "salary_min": 90000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/78831770?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Медицинский центр XXI век (21 век)",
+            "location": "Санкт-Петербург, Ладожская и еще 1 ",
+            "salary_min": 85000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Дежурный врач-терапевт стационара",
+            "link": "https://spb.hh.ru/vacancy/78843555?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ГК Медси. Клинические больницы",
+            "location": "Санкт-Петербург",
+            "salary_min": null,
+            "salary_max": null,
+            "salary_currency": null,
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт терапевтического отделения",
+            "link": "https://spb.hh.ru/vacancy/78016038?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ГБУЗ ЛО «Тихвинская МБ им. А.Ф. Калмыкова»",
+            "location": "Санкт-Петербург",
+            "salary_min": 80000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/78254957?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ГБУЗ Калининградской области Городская больница № 2",
+            "location": "Санкт-Петербург",
+            "salary_min": null,
+            "salary_max": 100000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/77521613?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ГУЗ Тульский областной госпиталь ветеранов войн и труда",
+            "location": "Санкт-Петербург",
+            "salary_min": 25014,
+            "salary_max": 86338,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/77093937?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Клиника EMS",
+            "location": "Санкт-Петербург, Парк Победы",
+            "salary_min": null,
+            "salary_max": null,
+            "salary_currency": null,
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт",
+            "link": "https://spb.hh.ru/vacancy/76702529?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Одонт, Медицинский центр",
+            "location": "Санкт-Петербург, Звёздная",
+            "salary_min": null,
+            "salary_max": null,
+            "salary_currency": null,
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт участковый",
+            "link": "https://spb.hh.ru/vacancy/78973059?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ГУЗ Тульский областной госпиталь ветеранов войн и труда",
+            "location": "Санкт-Петербург",
+            "salary_min": 90000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт в пансионат",
+            "link": "https://spb.hh.ru/vacancy/78342463?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "ООО Гармония",
+            "location": "Санкт-Петербург",
+            "salary_min": 45000,
+            "salary_max": 55000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Медицинская сестра/Медицинский брат",
+            "link": "https://spb.hh.ru/vacancy/77804733?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "СПб ГБУЗ Городская поликлиника № 24",
+            "location": "Санкт-Петербург, Балтийская и еще 1 ",
+            "salary_min": 60000,
+            "salary_max": null,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        },
+        {
+            "title": "Врач-терапевт (Выборгский и Пушкинский районы)",
+            "link": "https://spb.hh.ru/vacancy/72880351?query=%D0%B2%D1%80%D0%B0%D1%87-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82",
+            "recruiter": "Полис",
+            "location": "Санкт-Петербург",
+            "salary_min": 65000,
+            "salary_max": 120000,
+            "salary_currency": "RUB",
+            "source": "hh.ru"
+        }
+    ]
+}
