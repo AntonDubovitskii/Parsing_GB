@@ -24,4 +24,3 @@ class StolplitSpider(scrapy.Spider):
         loader.add_xpath('regular_price', "//div[@id='js-detail_product_price_wrapper']/div[@class='price--old']/text()")
         yield loader.load_item()
 
-

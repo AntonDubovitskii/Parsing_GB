@@ -21,12 +21,12 @@ class ParserGoodsPipeline:
     def process_item(self, item, spider):
         collection = self.mongo_db[spider.name]
         collection.insert_one(item)
-
         return item
 
 
 class StolplitImagesPipline(ImagesPipeline):
     def get_media_requests(self, item, info):
+        # Проверка наличия ссылок и загрузка изображений
         if item['images']:
             for img in item['images']:
                 try:
@@ -40,6 +40,7 @@ class StolplitImagesPipline(ImagesPipeline):
         return item
 
     def file_path(self, request, response=None, info=None, *, item=None):
+        # Создание директорий на основе названий товаров и распределение изображений по ним
         dir = f'{item["name"]}/'.replace(',', ' ').replace(' ', '_')
         return dir + PurePath(urlparse(request.url).path).name
 

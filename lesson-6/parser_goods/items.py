@@ -9,11 +9,17 @@ from itemloaders.processors import Compose, MapCompose, TakeFirst
 
 
 def complete_url(link):
+    """
+    Формирование окончательного вида ссылки на изображение
+    """
     link = 'https://stolplit.ru' + link
     return link
 
 
 def clean_price(value):
+    """
+    Очистка строки с записью цены от лишних пробелов, а после - приведение к числовому типу
+    """
     try:
         value = int(value[0].strip().replace(' ', ''))
     except:
@@ -22,6 +28,9 @@ def clean_price(value):
 
 
 def clean_title(value):
+    """
+    Очистка названия от множества лишних пробелов и переносов строки
+    """
     try:
         value = value[0].strip()
     except:
@@ -36,12 +45,4 @@ class ParserGoodsItem(scrapy.Item):
     current_price = scrapy.Field(input_processor=Compose(clean_price), output_processor=TakeFirst())
     regular_price = scrapy.Field(input_processor=Compose(clean_price), output_processor=TakeFirst())
     _id = scrapy.Field()
-
-    # print("\n######################\n%s\n%s\n%s\n%s\n%s\n#######################\n" % (
-    #          name,
-    #          link,
-    #          images,
-    #          current_price,
-    #          regular_price,
-    #      ))
 
